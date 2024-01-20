@@ -22,6 +22,19 @@ body{
     background-color: white;
 }
 
+/* this method for fill the box with the image  */
+.fill{
+    background-image:url('https://source.unsplash.com/random/150x150') ;
+    height: 145px;
+    width: 145px;
+    cursor: pointer;
+}
+
+/* when you drag image also border will be visible  */
+.hold{
+    border: solid 5px #ccc;
+}
+
 
 
 
