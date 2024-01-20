@@ -34,11 +34,12 @@ body{
 .hold{
     border: solid 5px #ccc;
 }
-
-
-
-
-
+/* when you hover on the box it background color will be change */
+.hovered{
+    background-color: #333;
+    border-color: white;
+    border-style: dashed;
+}
 
 
 
@@ -50,4 +51,11 @@ body{
     body{
         flex-direction: column;
     }
-}
+
+    }
+
+
+
+
+
+
